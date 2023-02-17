@@ -1,4 +1,4 @@
-#include <stdio.h> |
+| #include <stdio.h> |
 /**
  * main - the script that prints Hello world
  * Return: 0
