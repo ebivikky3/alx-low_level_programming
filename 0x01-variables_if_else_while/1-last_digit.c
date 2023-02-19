@@ -1,10 +1,12 @@
 #include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
+#include <math.h>
 
 /**
  * main - source code to print the last digit of number stored in a variable.
- * Return 0
+ * Return: 0
+ * and check if it is greater th 5, less than 6, or 0,.
+ *
  */
 int main(void)
 {
