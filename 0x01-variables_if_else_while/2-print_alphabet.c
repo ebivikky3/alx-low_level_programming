@@ -1,8 +1,9 @@
 #include <stdio.h>
-#include <ctype.h>
 /**
  * main - To write a program that prints alphabets
  * in lowercase, followed by a new line.
+ *
+ * Return: (0) Always sucess
  */
 
 int main(void)
