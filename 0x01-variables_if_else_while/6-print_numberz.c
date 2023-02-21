@@ -8,11 +8,11 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-{
+i{
 	int i;
 
 	for (i = '0'; i < '9'; i++)
-	putchar("%d", i);
-	putchar("\n");
+	putchar(d);
+	putchar('\n');
 	return (0);
 }
