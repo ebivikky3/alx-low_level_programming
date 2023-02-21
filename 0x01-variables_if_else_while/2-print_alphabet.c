@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 /**
  * main - To write a program that prints alphabets
  * in lowercase, followed by a new line.
