@@ -6,7 +6,7 @@
  *
  * Return: Always 0.
  */
-	int main(void)
+int main(void)
 {
 	char str[] = "Expect the best. Prepare for the worst. Capitalize on
 
