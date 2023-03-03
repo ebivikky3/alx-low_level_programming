@@ -5,7 +5,7 @@
  * Return: n
  */
 char *string_toupper(char *n)
-/* a function that changes the letters*/
+/* a function that converts pointer to a string */
 {
 	int i;
 
