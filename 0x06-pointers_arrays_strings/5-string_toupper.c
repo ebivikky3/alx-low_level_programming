@@ -5,7 +5,7 @@
  * Return: n
  */
 char *string_toupper(char *n)
-/* a function that converts pointer to a string */
+/* a function that converts lowercase letter to uppercase */
 {
 	int i;
 
