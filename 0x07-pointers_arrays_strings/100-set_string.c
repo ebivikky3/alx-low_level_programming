@@ -9,5 +9,5 @@
 void set_string(char **s, char *to)
 /* prototyp for double pointer*/
 {
-	*s = t0;
+	*s = to;
 }
