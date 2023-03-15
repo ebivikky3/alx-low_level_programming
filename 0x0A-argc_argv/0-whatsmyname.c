@@ -7,8 +7,8 @@
  * Return: Always 0 (sucess)
  */
 int main(int argc _attribute_((unused)), char *argv[])
-
+/* the prototype that prints the arguement*/
 {
-	printf("%s\n", *argv);
+	printf("%c\n", *argv);
 	return (0);
 }
